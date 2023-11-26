@@ -28,7 +28,8 @@
 </ul>
 
 <h2> Preview </h2>
-<img src="C:\Users\Abhilaasha\Pictures\Screenshots">
+![Movie-App](preview(2).png)
+
 
 <h2> License </h2>
 
