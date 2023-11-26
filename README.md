@@ -12,3 +12,25 @@
 <p> Obtain an API key from [The Movie Database TMDb](https://developer.themoviedb.org/docs) and replace API_KEY in the code with your own API key for the app to fetch data.</p>
 
 
+<h2> Usage </h2>
+<h3> Main Page : </h3>
+<ul>
+  <li> The main page displays popular movies fetched from the TMDb API.</li>
+  <li> Click on a movie to view additional details in an overview. </li>
+</ul>
+
+
+<h3> Search Functionality:</h3>
+
+<ul>
+  <li> Use the search bar to look for movies by their title.</li>
+ <li>Enter the movie title and press Enter or submit the form to retrieve matching movies. </li>
+</ul>
+
+<h2> Preview </h2>
+<img src="C:\Users\Abhilaasha\Pictures\Screenshots">
+
+<h2> License </h2>
+
+<p> This project is licensed under the MIT License.</p>
+
