@@ -1,4 +1,4 @@
-# Movie-app -> [Link]("https://movie-app-playful.netlify.app/")
+# Movie-app -> [Link](https://movie-app-playful.netlify.app/)
 
 
 
