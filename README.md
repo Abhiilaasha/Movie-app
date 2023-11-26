@@ -27,8 +27,7 @@
  <li>Enter the movie title and press Enter or submit the form to retrieve matching movies. </li>
 </ul>
 
-<h2> Preview </h2>
-[Preview](C:\Users\Abhilaasha\Pictures\Screenshots\Preview(2).png)
+
 
 
 <h2> License </h2>
