@@ -26,7 +26,8 @@
   <li> Use the search bar to look for movies by their title.</li>
  <li>Enter the movie title and press Enter or submit the form to retrieve matching movies. </li>
 </ul>
-
+<h2> Preview </h2>
+<a href="https://imgur.com/YbTRjDG"><img src="https://i.imgur.com/YbTRjDG.png" title="source: imgur.com" /></a>
 
 
 
