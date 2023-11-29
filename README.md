@@ -9,7 +9,7 @@
 </ul>
 
 <h2> API KEY </h2>
-<p> Obtain an API key from [The Movie Database TMDb]   TMDb API [here](https://www.themoviedb.org/documentation/api) and replace API_KEY in the code with your own API key for the app to fetch data.</p>
+<p> Obtain an API key from [The Movie Database TMDb](https://www.themoviedb.org/documentation/api) and replace API_KEY in the code with your own API key for the app to fetch data.</p>
 
 
 <h2> Usage </h2>
